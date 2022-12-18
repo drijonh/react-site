@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+.App-header {
+  font-family: 'Ubuntu', sans-serif;
+  background: rgb(36, 32, 41);
+  position: relative;
+  min-height: 100%;
+  overflow-x: hidden;
+  color: rgb(221, 217, 230);
+  margin: 0rem;
+  user-select: none;
+  overflow: overlay;
+  overflow-x: hidden !important;
+  -ms-overflow-style: -ms-autohiding-scrollbar;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  text-align: unset;
+  height: 100%;
+  
+}
+
+.tech-list {
+  margin-top: 8px; margin-left: 12px;
+  max-width: 50%;
+  margin-left: 100px;
+  height: 100%;
+  min-height: 100%;
+}
+
+.about {
+  font-size: 27px;
+  max-width: 50%;
+  margin-left: 100px;
+  height: 100%;
+  min-height: 100%;
+}
+
+.about-text {
+  margin-top: 8px; margin-left: 12px; display: block;
+  max-width: 50%;
+  margin-left: 100px;
+  height: 100%;
+  min-height: 100%;
+}
+
+.App-logo {
+  width: 130x; 
+  border-radius: 10px;
+  margin-left: 176px; 
+  margin-top: 14px;
+
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+.link {
+  font-family: 'Open Sans', sans-serif;
+  color: #6583c3;
+  cursor: pointer;
+  transition-duration: 300ms;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #528d50;
+  text-decoration: none;
+}
+
+.drijon {
+  font-size: 44px; color: rgb(255, 255, 255);
+  margin-left: 30px; margin-top: 14px;
+  height: 100%;
+  min-height: 100%;
+}
+
+.contact-text {
+  margin-top: 8px; margin-left: 12px; display: block;
+  max-width: 55%;
+  margin-left: 100px;
+  height: 100%;
+  min-height: 100%;
+  
+}
