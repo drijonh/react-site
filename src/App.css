@@ -8,7 +8,7 @@
   font-family: 'Ubuntu', sans-serif;
   background: rgb(36, 32, 41);
   position: relative;
-  min-height: 100%;
+  min-height: 100vh;
   overflow-x: hidden;
   color: rgb(221, 217, 230);
   margin: 0rem;
@@ -20,7 +20,7 @@
   display: flex;
   align-items: center;
   text-align: unset;
-  height: 100%;
+
   
 }
 
@@ -28,24 +28,18 @@
   margin-top: 8px; margin-left: 12px;
   max-width: 50%;
   margin-left: 100px;
-  height: 100%;
-  min-height: 100%;
 }
 
 .about {
   font-size: 27px;
   max-width: 50%;
   margin-left: 100px;
-  height: 100%;
-  min-height: 100%;
 }
 
 .about-text {
   margin-top: 8px; margin-left: 12px; display: block;
   max-width: 50%;
   margin-left: 100px;
-  height: 100%;
-  min-height: 100%;
 }
 
 .App-logo {
@@ -77,15 +71,11 @@
 .drijon {
   font-size: 44px; color: rgb(255, 255, 255);
   margin-left: 30px; margin-top: 14px;
-  height: 100%;
-  min-height: 100%;
 }
 
 .contact-text {
   margin-top: 8px; margin-left: 12px; display: block;
   max-width: 55%;
   margin-left: 100px;
-  height: 100%;
-  min-height: 100%;
   
 }
