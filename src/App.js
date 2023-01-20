@@ -36,4 +36,35 @@ return (
   </div>
   )
 }
+
+
+module.exports = {
+  metadata: {
+  title: `Drijon - Front-End Engineer`,
+  description: `Hi I'm Drijon, an experienced JavaScript and Python Developer. Specialised in React.JS and Node.JS\nTake a look at my Portfolio Website for more Information.`,
+  image: `https://avatars.githubusercontent.com/u/87547203?v=4`,
+  domainName: `drijon.co`,
+  color: `#3385FF`,
+  keywords: [
+      'Drijon',
+      'Drijon H.',
+      'Drijon#7577',
+      'Drijon Twitter',
+      'Drijon LinkedIn',
+      'Drijon GitHub',
+      'Drijon Italy',
+      'South Tyrol',
+      'Sienna',
+      'drijon.co',
+      'drijon.co',
+      'WFO',
+      'Drijon Discord',
+      'Coding Drijon',
+      'React Drijon',
+      'Drijon Developer'
+      'Drijon Ha'
+   ],
+}
+}
+
 export default App;
