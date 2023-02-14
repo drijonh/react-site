@@ -37,7 +37,7 @@ return (
   )
 }
 
-
+/*
 module.exports = {
   metadata: {
   title: `Drijon - Front-End Engineer`,
@@ -61,10 +61,10 @@ module.exports = {
       'Drijon Discord',
       'Coding Drijon',
       'React Drijon',
-      'Drijon Developer'
+      'Drijon Developer',
       'Drijon Ha'
    ],
 }
 }
-
+*/
 export default App;
